@@ -1,8 +1,8 @@
 JazzFlow leverages the intergenerational knowledge of composers to transform old compositions into new harmonies.
-Starting with a single input piece, JazzFlow outputs 32 unique variations.For the modern composer, this saves time
+Starting with a single input piece, JazzFlow outputs 32 unique variations. For the modern composer, this saves time
 for experimentation. Also, the rich, oftenunexpected harmonies produced may provide inspiration.
 
-This program takes MIDI files, diatonically transposes the pieces through scales, 
+This program takes MIDI files, diatonically transposes the pieces through Barry Harris' scales of chords, 
 and writes new MIDI files.
 
 Written using JythonMusic
