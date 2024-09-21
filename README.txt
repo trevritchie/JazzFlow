@@ -5,6 +5,8 @@ for experimentation. Also, the rich, oftenunexpected harmonies produced may prov
 This program takes MIDI files, diatonically transposes the pieces through Barry Harris' scales of chords, 
 and writes new MIDI files.
 
+For a more depth explanation, look at EXPO_poster.pdf.
+
 Written using JythonMusic
 For more info: https://jythonmusic.me/
 To download JythonMusic: https://jythonmusic.me/download-3/
