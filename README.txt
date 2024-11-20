@@ -1,4 +1,4 @@
-For a more in depth explanation, look at EXPO_Poster.pdf.
+Pleases reference EXPO_Poster.pdf.
 
 JazzFlow leverages the intergenerational knowledge of composers to transform old compositions into new harmonies.
 Starting with a single input piece, JazzFlow outputs 32 unique variations. For the modern composer, this saves time
